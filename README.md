@@ -12,4 +12,13 @@ Jetzt etwas Neues auf Github
 
 
 
+<<<<<<< HEAD
 Noch mal etwa Neues
+=======
+add new line
+
+
+
+
+Neue Line
+>>>>>>> bb5b0577547d202fff431acad5576edb754755b8
