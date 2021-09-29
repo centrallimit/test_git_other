@@ -24,8 +24,12 @@ Neue Line
 
 
 
+
 Hueheuhe Kelkekeke
 
 
 sdhuhdudh
 
+=======
+>>>>>>> bb5b0577547d202fff431acad5576edb754755b8
+>>>>>>> parent of dc87021... merge fixed finally
